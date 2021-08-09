@@ -2,6 +2,7 @@ name: "accesojusticia2021"
 title: "Acceso a la Justicia y Litigio Constitucional"
 description: |
   Acceso a la Justicia y Litigio Constitucional
+output_dir: ""
 navbar:
   title: Comisión 0511 - 2021
   left:
