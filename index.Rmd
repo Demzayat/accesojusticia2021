@@ -3,9 +3,8 @@ title: "Acceso a la Justicia y Litigio Constitucional"
 author:
 - name: Demian Zayat
 - name: Paula Sagel
-  affiliation: Universidad de Buenos Aires - Derecho
-description: |
-  Sitio del curso 0511 UBA Derecho - 1er bimestre 2do cuatrimestre 2021
+  affiliation: Universidad de Buenos Aires - Facultad de Derecho 
+  description: Sitio del curso 0511 UBA Derecho - 1er bimestre 2do cuatrimestre 2021 Ma-Vi 10:11.30hs
 ---
 
 ```{r, include=FALSE}
@@ -81,16 +80,18 @@ Patrocinio letrado. Requerir un patrocinio letrado puede ser difícil en muchos 
 
 En esta unidad comenzaremos a ver cómo son afectados algunos grupos en particular.
 
-a.  Usurpaciones y derecho de defensa
-
--   Ricciardi y Zayat, *El derecho de defensa en los casos de usurpaciones en la Ciudad de Buenos Aires: un estudio empírico*, en Revista Institucional de la Defensa Pública de la CABA N° 1, disponible [acá](https://drive.google.com/file/d/1KeqFSqkZ2aBrHXkRcIaZCVu6AMSaX7zH/view?usp=sharing)
-
-### `r advdate(viernes, 3)`. Unidad 3. La práctica
-
-b.  Migrantes Expulsiones. Caso Vanessa Gomez
+a.  Migrantes Expulsiones. Caso Vanessa Gomez
 
 -   Expediente judicial CAF 067668/2018 [retencion](https://drive.google.com/file/d/1MszNbvuQgl56ukSCbql4ggAAKyiia5Bs/view?usp=sharing), [captura](https://drive.google.com/file/d/11RSJ0lXuMKwhQy-gVHfODbc-AH1fBE0j/view?usp=sharing) y [apelacion](https://drive.google.com/file/d/1xsXyT2y3F7sGL8yhK8kG6GTfhkYi7nVw/view?usp=sharing)
 -   Oteiza y Zayat, A treinta años de la CDN, [aca](https://drive.google.com/file/d/1rZbIfh3834THG1K07moFq1Cgp_zmYtsk/view?usp=sharing)
+
+
+### `r advdate(viernes, 3)`. Unidad 3. La práctica
+
+b.  Usurpaciones y derecho de defensa
+
+-   Ricciardi y Zayat, *El derecho de defensa en los casos de usurpaciones en la Ciudad de Buenos Aires: un estudio empírico*, en Revista Institucional de la Defensa Pública de la CABA N° 1, disponible [acá](https://drive.google.com/file/d/1KeqFSqkZ2aBrHXkRcIaZCVu6AMSaX7zH/view?usp=sharing)
+
 
 ### `r advdate(martes, 4)`. Unidad 3. La práctica
 
@@ -102,8 +103,9 @@ b.  Personas con discapacidad
 
 ### `r advdate(viernes, 4)`. Unidad 3. La práctica
 
-c. Niñeces a definir
-
+c. Niñeces
+  - Romina Faerman, [Las decisiones de los Niños...](https://drive.google.com/file/d/1vjWDNx026ng38dl2I4G_ojXGlBQt23TT/view?usp=sharing)
+  - Caso Alumnas Madres, [aca](https://drive.google.com/file/d/19UimOPOVGLyYTTKEr-WqKhw5XZzWmzna/view?usp=sharing)
 
 ### `r advdate(martes, 5)`. Unidad 3. La práctica
 
@@ -111,6 +113,7 @@ d.  LGBT Trans
 
 -   Informe sombra CEDAW 2016, [aca](https://drive.google.com/file/d/1Zv0TtTTzgt5N4vSBEo3F7UjiayBQ2BIx/view?usp=sharing)
 -   Violencia institucional contra personas trans, [ponencia](https://drive.google.com/file/d/1NWDuVTHVpSSWbHTuvP6WPAy6waXvDyXo/view)
+- Caso de Luz Aime, [aca](http://cosecharoja.org/absolvieron-a-luz-aime/)
 
 Les dejo también el decreto del [cupo laboral trans](http://servicios.infoleg.gob.ar/infolegInternet/anexos/340000-344999/341808/norma.htm) y la 
 [ley 27.636](http://servicios.infoleg.gob.ar/infolegInternet/anexos/350000-354999/351815/norma.htm)
@@ -121,15 +124,16 @@ Les dejo también el decreto del [cupo laboral trans](http://servicios.infoleg.g
 
 e.  Mujeres
 
--   Inecip, casos de violencia de género, [aca](https://inecip.org/publicaciones/herramientas-jurisprudenciales-para-el-litigio-con-perspectiva-de-genero/)
-
--   CEDAW, Observación General 33, disponible [acá](https://drive.google.com/file/d/1j3suY4Q3JhS5EzbAvs6_K6XSbQsOQ7D7/view?usp=sharing)
+- Dicen que tuve un bebé
 
 
 ### `r advdate(martes, 6)`. Unidad 3. La práctica
 
 e. Mujeres (cont)
 
+-   Inecip, casos de violencia de género, [aca](https://inecip.org/publicaciones/herramientas-jurisprudenciales-para-el-litigio-con-perspectiva-de-genero/)
+
+-   CEDAW, Observación General 33, disponible [acá](https://drive.google.com/file/d/1j3suY4Q3JhS5EzbAvs6_K6XSbQsOQ7D7/view?usp=sharing)
 
 ### `r advdate(viernes, 6)`. Unidad 3. La práctica
 
@@ -158,14 +162,16 @@ f.  Pueblos originarios
 
 Estándares de la Corte Suprema para facilitar el acceso a la justicia: *Persepectiva clásica*
 
--CSJN [Halabi](https://drive.google.com/file/d/1EcDi8VnbuUNH7DlaRPhTMit0IGLLGn0d/view?usp=sharing)
+- CSJN [Halabi](https://drive.google.com/file/d/1EcDi8VnbuUNH7DlaRPhTMit0IGLLGn0d/view?usp=sharing)
 
--CSJN [Padec](https://drive.google.com/file/d/186eN_fSToqx4d_W2fRI2pckZA3a5CWCH/view?usp=sharing)
+- CSJN [Padec](https://drive.google.com/file/d/186eN_fSToqx4d_W2fRI2pckZA3a5CWCH/view?usp=sharing)
+
+- Paula Sagel, El Poder Judicial frente al derecho al aborto, [aca](https://drive.google.com/file/d/1vMvD_z6aXP-I36tmDweFL6uaWI6k2xcC/view?usp=sharing)
 
 ### `r advdate(viernes, 8)`. Unidad 4. Litigio Constitucional
 
 Estándares de la Corte Suprema para facilitar el acceso a la justicia: *Persepectiva estructural*
 
--CAF, Sala V [DNU Migrantes](https://drive.google.com/file/d/1y2HFqD7WvBZR0AKB1sYAlSxbZMny2Cez/view?usp=sharing)
+- CAF, Sala V [DNU Migrantes](https://drive.google.com/file/d/1y2HFqD7WvBZR0AKB1sYAlSxbZMny2Cez/view?usp=sharing)
 
--CSJN, [Quisbert Castro](https://drive.google.com/file/d/1IIU_OrTzoAvqpydcx0Xi40ci0B__DQOG/view?usp=sharing)
+- CSJN, [Quisbert Castro](https://drive.google.com/file/d/1IIU_OrTzoAvqpydcx0Xi40ci0B__DQOG/view?usp=sharing)
