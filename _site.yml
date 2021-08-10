@@ -8,6 +8,11 @@ navbar:
   left:
     - text: Home
       href: index.html
+  right:
+    - text: Unidad 1
+      menu:
+      - text: Clase 1
+        href: clase1.html
 output:
   html_document:
     theme: flatly
