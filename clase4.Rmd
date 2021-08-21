@@ -1,0 +1,13 @@
+---
+title: "Clase 4"
+output: html_document
+---
+Hola!
+
+Acá les dejo el [video](https://drive.google.com/file/d/1xJuxT3S30KXQYUfu6SWo9POBu9rl0miT/view?usp=sharing)
+
+<iframe src="https://drive.google.com/file/d/1xJuxT3S30KXQYUfu6SWo9POBu9rl0miT/preview" width="700" height="500"></iframe>
+
+Les dejo el link al libro que mencionamos de Gargarella ["La Justicia frente al Gobierno"](http://bivicce.corteconstitucional.gob.ec/bases/biblo/texto/La_justicia_frente_al_gobierno_3/La_justicia_frente_al_gobierno_3.pdf) que trata la dificultad contramayoritaria, por si les interesa ese tema (no es de esta materia, aclaro). Para mi es muy bueno y facil de comprender. 
+
+## Nos vemos el martes con migrantes! 

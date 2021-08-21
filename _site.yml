@@ -19,6 +19,10 @@ navbar:
       menu:
       - text: Clase 3
         href: clase3.html
+    - text: Unidad 3
+      menu:
+      - text: Clase 4 Agenda
+        href: clase4.html
 output:
   html_document:
     theme: flatly
