@@ -2,7 +2,6 @@
 title: "Acceso a la Justicia y Litigio Constitucional"
 author:
 - name: Demian Zayat
-- name: Paula Sagel
   affiliation: Universidad de Buenos Aires - Facultad de Derecho 
   description: Sitio del curso 0511 UBA Derecho - 1er bimestre 2do cuatrimestre 2021 Ma-Vi 10:11.30hs
 ---
