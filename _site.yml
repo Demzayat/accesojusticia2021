@@ -23,6 +23,8 @@ navbar:
       menu:
       - text: Clase 4 Agenda
         href: clase4.html
+      - text: Clase 5 Migrantes
+        href: clase5.html
 output:
   html_document:
     theme: flatly

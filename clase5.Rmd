@@ -1,0 +1,14 @@
+---
+title: "Clase 5"
+output: html_document
+---
+Hola!
+
+Acá les dejo las [diapositivas](https://ajlcclase5.netlify.app/) de hoy.
+
+
+Y acá el [video](https://drive.google.com/file/d/1bsJpzeDYKBZt85Cp-qaHSJZgQxvrSiLq/view?usp=sharing)
+
+<iframe src="https://drive.google.com/file/d/1bsJpzeDYKBZt85Cp-qaHSJZgQxvrSiLq/preview" width="700" height="500"></iframe>
+
+## Nos vemos el viernes con desalojos!
