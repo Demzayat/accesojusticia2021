@@ -1,0 +1,13 @@
+---
+title: "Clase 6"
+output: html_document
+---
+Hola!
+
+Acá les dejo las [diapositivas](https://ajlcclase6.netlify.app/) de hoy.
+
+Y acá el [video](https://drive.google.com/file/d/1ZFxMB_5ifq0kNezKnEU5VPRvODIUAssj/view?usp=sharing)
+
+<iframe src="https://drive.google.com/file/d/1ZFxMB_5ifq0kNezKnEU5VPRvODIUAssj/preview" width="700" height="500"></iframe>
+
+## Nos vemos el martes con discapacidad y salud mental! Furlan y RMJ

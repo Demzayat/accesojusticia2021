@@ -25,6 +25,8 @@ navbar:
         href: clase4.html
       - text: Clase 5 Migrantes
         href: clase5.html
+      - text: Clase 6 Desalojos
+        href: clase6.html
 output:
   html_document:
     theme: flatly
