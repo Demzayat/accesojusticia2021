@@ -28,7 +28,7 @@ navbar:
       - text: Clase 6 Desalojos
         href: clase6.html
       - text: Clase 7 Discapacidad
-        href: clase6.html
+        href: clase7.html
 output:
   html_document:
     theme: flatly
@@ -36,5 +36,4 @@ output:
     toc_float: yes
     toc_depth: 3
     include:
-      after_body: footer.html
     css: styles.css

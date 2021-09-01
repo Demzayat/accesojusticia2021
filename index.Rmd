@@ -103,7 +103,7 @@ b.  Personas con discapacidad
 ### `r advdate(viernes, 4)`. Unidad 3. La práctica
 
 c. Niñeces
-  - MPT CABA, [Violencia contra Niños, Niñas y Adolescentes](https://drive.google.com/file/d/1lc3H955K8Wx1-7mdtDAJX--CBBcqXfuX/view?usp=sharing), presentado por Romina Faerman
+  - MPT CABA, [Violencia contra Niños, Niñas y Adolescentes](https://drive.google.com/file/d/1lc3H955K8Wx1-7mdtDAJX--CBBcqXfuX/view?usp=sharing), presentado por Romina Faerman (en especial capítulo 2)
   
 
 ### `r advdate(martes, 5)`. Unidad 3. La práctica
