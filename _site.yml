@@ -27,6 +27,8 @@ navbar:
         href: clase5.html
       - text: Clase 6 Desalojos
         href: clase6.html
+      - text: Clase 7 Discapacidad
+        href: clase6.html
 output:
   html_document:
     theme: flatly

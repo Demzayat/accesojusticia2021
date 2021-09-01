@@ -103,8 +103,8 @@ b.  Personas con discapacidad
 ### `r advdate(viernes, 4)`. Unidad 3. La práctica
 
 c. Niñeces
-  - Romina Faerman, [Las decisiones de los Niños...](https://drive.google.com/file/d/1vjWDNx026ng38dl2I4G_ojXGlBQt23TT/view?usp=sharing)
-  - Caso Alumnas Madres, [aca](https://drive.google.com/file/d/19UimOPOVGLyYTTKEr-WqKhw5XZzWmzna/view?usp=sharing)
+  - MPT CABA, [Violencia contra Niños, Niñas y Adolescentes](https://drive.google.com/file/d/1lc3H955K8Wx1-7mdtDAJX--CBBcqXfuX/view?usp=sharing), presentado por Romina Faerman
+  
 
 ### `r advdate(martes, 5)`. Unidad 3. La práctica
 

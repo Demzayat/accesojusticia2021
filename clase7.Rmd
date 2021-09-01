@@ -1,0 +1,18 @@
+---
+title: "Clase 7"
+output: html_document
+---
+Hola!
+
+Van acá los fallos marcados que vimos hoy
+1. [Resumen Furlan](https://drive.google.com/file/d/1xTx0kXGZIEDjCTjdmhoeyykKrzMUQCcf/view?usp=sharing)
+1. [CSJN RMJ](https://drive.google.com/file/d/1itoorn-hze8tMTxegp4DQVxtLsO54-Vv/view?usp=sharing)
+1. Y el fallo sobre la no aplicación de la ley de consolidación para la ejecución de sentencias contra el Estado [CSJN C, JC ](https://drive.google.com/file/d/1NGYopyv--Lc35aZH-16R_1KLlaN2Hwcb/view?usp=sharing)
+
+Y acá el [video](https://drive.google.com/file/d/1_J2jRLtOKbGnMN9VnlybgBOhWh3kq8di/view?usp=sharing)
+
+<iframe src="https://drive.google.com/file/d/1_J2jRLtOKbGnMN9VnlybgBOhWh3kq8di/preview" width="700" height="500"></iframe>
+
+## Nos vemos el viernes con Niñeces. 
+
+Cambié el texto en el programa y viene de invitada Romina Faerman!
