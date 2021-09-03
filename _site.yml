@@ -29,6 +29,8 @@ navbar:
         href: clase6.html
       - text: Clase 7 Discapacidad
         href: clase7.html
+      - text: Clase 8 Niñeces
+        href: clase8.html
 output:
   html_document:
     theme: flatly
