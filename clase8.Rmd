@@ -4,6 +4,6 @@ output: html_document
 ---
 Hola, va el video de la clase con Romina Faerman, [aca](https://drive.google.com/file/d/17Dec-fd_5m4InL36zEdf4Rzps-u3ezg5/view?usp=sharing)
 
-<iframe src="https://drive.google.com/file/d/17Dec-fd_5m4InL36zEdf4Rzps-u3ezg5/preview" width="700" height="500"></iframe>
+<iframe src="https://drive.google.com/file/d/17Dec-fd_5m4InL36zEdf4Rzps-u3ezg5/preview" width="700" height="500" allow="autoplay"></iframe>
 
 ## Nos vemos el martes con personas Travestis-Trans. 
