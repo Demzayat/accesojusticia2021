@@ -1,0 +1,42 @@
+---
+title: "Clase 9"
+output: html_document
+---
+Hola!
+
+Aca están las diapositivas de la [clase](https://ajlcclase8.netlify.app)
+
+Y acá el [video](https://drive.google.com/file/d/1HCie30JP7UYEsN7j3Hngv6-ZTxSYlrvl/view?usp=sharing)
+
+<iframe src="https://https://drive.google.com/file/d/1HCie30JP7UYEsN7j3Hngv6-ZTxSYlrvl/preview" width="700" height="500"></iframe>
+
+Les pego el chat que estuvo interesante tambien 
+
+
+00:06:03.163,00:06:06.163
+Demian Zayat: https://ajlcclase8.netlify.app/
+
+00:30:07.677,00:30:10.677
+Demian Zayat: https://youtu.be/xEJzNxgV27s . Video de Diana Maffia
+
+00:31:02.283,00:31:05.283
+Carlos Adrian Ottoline: leí que Lohana trabajo como asesora legislativa cuando Diana fue legisladora 
+
+00:32:21.615,00:32:24.615
+Carlos Adrian Ottoline: me llamo la atención ese punto Demian, la poca, y la falta de información que provee el Estado sobre este colectivo
+
+00:54:20.842,00:54:23.842
+Cielo Abril Scarpiello: https://www.infobae.com/sociedad/2021/09/03/le-negaron-el-alquiler-porque-su-novia-es-trans-no-se-hace-por-el-tema-de-tu-pareja/
+
+01:24:31.042,01:24:34.042
+Carlos Adrian Ottoline: Conmovedor, muy fuerte
+
+01:24:40.210,01:24:43.210
+Carlos Adrian Ottoline: la emoción de la defensa tambien
+
+01:25:46.968,01:25:49.968
+Carlos Adrian Ottoline: https://youtu.be/wjKlR8qpXsw
+
+## Nos vemos el viernes con _Dicen que tuve un Bebé_ 
+
+Agregué el texto en el programa, y viene de invitada Natalia Saralegui. No circulen el texto por favor!

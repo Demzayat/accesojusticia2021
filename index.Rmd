@@ -124,7 +124,7 @@ Les dejo también el decreto del [cupo laboral trans](http://servicios.infoleg.g
 
 e.  Mujeres
 
-- Dicen que tuve un bebé
+- Dicen que tuve un bebé, [Selección](https://drive.google.com/file/d/11CkDJsJytes8lsTh1XaulrLOuNEknJel/view?usp=sharing), presentado por Natalia Saralegui.
 
 
 ### `r advdate(martes, 6)`. Unidad 3. La práctica
@@ -149,16 +149,7 @@ e.  Africanos y afrodescendientes
 
 ### `r advdate(martes, 7)` - No hay clases.
 
-### `r advdate(viernes, 7)`. Unidad 3. La práctica
-
-f.  Pueblos originarios
-
--   Comite DH, NFL, [aca](https://drive.google.com/file/d/1CP_TpEaI6XXZIb3ACuyqa8XFPuvbdR3f/view?usp=sharing)
-
-- Inadi, Dictamen Colihueque, [aca](https://drive.google.com/file/d/1_t9jnOgqHc9qw7PyU6nuJS0_VORXtdLj/view?usp=sharing¨)
-
-
-### `r advdate(martes, 8)`. Unidad 4. Litigio Constitucional
+### `r advdate(viernes, 7)`. Unidad 4. Litigio Constitucional
 
 Estándares de la Corte Suprema para facilitar el acceso a la justicia: *Persepectiva clásica*
 
@@ -167,6 +158,15 @@ Estándares de la Corte Suprema para facilitar el acceso a la justicia: *Persepe
 - CSJN [Padec](https://drive.google.com/file/d/186eN_fSToqx4d_W2fRI2pckZA3a5CWCH/view?usp=sharing)
 
 - Paula Sagel, El Poder Judicial frente al derecho al aborto, [aca](https://drive.google.com/file/d/1vMvD_z6aXP-I36tmDweFL6uaWI6k2xcC/view?usp=sharing)
+
+
+### `r advdate(martes, 8)`. Unidad 3. La práctica
+
+f.  Pueblos originarios
+
+-   Comite DH, NFL, [aca](https://drive.google.com/file/d/1CP_TpEaI6XXZIb3ACuyqa8XFPuvbdR3f/view?usp=sharing)
+
+- Inadi, Dictamen Colihueque, [aca](https://drive.google.com/file/d/1_t9jnOgqHc9qw7PyU6nuJS0_VORXtdLj/view?usp=sharing¨)
 
 ### `r advdate(viernes, 8)`. Unidad 4. Litigio Constitucional
 
