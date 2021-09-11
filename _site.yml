@@ -33,6 +33,8 @@ navbar:
         href: clase8.html
       - text: Clase 9 LGBTIQ+
         href: clase9.html
+      - text: Clase 10 Mujeres
+        href: clase10.html
 output:
   html_document:
     theme: flatly
