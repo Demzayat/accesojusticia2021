@@ -34,6 +34,8 @@ navbar:
       - text: Clase 9 LGBTIQ+
         href: clase9.html
       - text: Clase 10 Mujeres
+        href: clase11.html
+      - text: Clase 11 Mujeres (cont)
         href: clase10.html
 output:
   html_document:

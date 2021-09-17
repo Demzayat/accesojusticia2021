@@ -1,16 +1,14 @@
 ---
-title: "Clase 10"
+title: "Clase 11"
 output: html_document
 ---
 Hola!
 
 
-Acá el [video](https://drive.google.com/file/d/1dm0EkjkAc4N2nomOGDatwsIc0mZNeEMR/view?usp=sharing) de la clase con Nati Saralegui.
+Acá el [video](https://drive.google.com/file/d/12kSopFQnrJFUfzsO5bMnNO_37CeMHmax/view?usp=sharing)
 
-<iframe src="https://drive.google.com/file/d/1dm0EkjkAc4N2nomOGDatwsIc0mZNeEMR/preview" width="700" height="500"></iframe>
+<iframe src="https://drive.google.com/file/d/12kSopFQnrJFUfzsO5bMnNO_37CeMHmax/preview" width="700" height="500"></iframe>
 
-Les dejo también el link a una [guia de monitoreo del Instituto interamericano de Derechos Humanos](https://www.iidh.ed.cr/IIDH/media/1989/monitoreo-ddhh-2004.pdf), sobre metodología para la realización de estudios de campo sobre derechos humanos, la parte de entrevistas puede servirles si quieren avanzar en esto.
+Aca el link de [Rita Segato](https://youtu.be/prUqWHKnUd4) en el senado
 
-## Nos vemos el martes con el trabajo del INECIP y la OG 33 de la CEDAW
-
-Agregué el texto en el programa, y viene de invitada Natalia Saralegui. No circulen el texto por favor!
+## Nos vemos el viernes con afrodescendientes y africanos
