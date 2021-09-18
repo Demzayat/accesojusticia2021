@@ -37,6 +37,8 @@ navbar:
         href: clase11.html
       - text: Clase 11 Mujeres (cont)
         href: clase10.html
+      - text: Clase 12 Afrodescendientes
+        href: clase12.html
 output:
   html_document:
     theme: flatly

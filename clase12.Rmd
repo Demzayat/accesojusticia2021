@@ -1,0 +1,12 @@
+---
+title: "Clase 12"
+output: html_document
+---
+Hola, 
+les dejo el [video](https://drive.google.com/file/d/1D1omcggB5rLtl8ZaTxqubpN1XRGXfU1N/view?usp=sharing) de la clase pasada.
+
+<iframe src="https://drive.google.com/file/d/1D1omcggB5rLtl8ZaTxqubpN1XRGXfU1N/preview" width="700" height="500"></iframe>
+
+Y luego, la película que recomende se llama "Infiltrado en el KKK" está en netflix, 
+
+### Nos vemos el viernes 24 con Litigio estructural. feliz día del estudiante para el martes!
