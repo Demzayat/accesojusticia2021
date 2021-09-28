@@ -39,6 +39,10 @@ navbar:
         href: clase10.html
       - text: Clase 12 Afrodescendientes
         href: clase12.html
+    - text: Unidad 4
+      menu:
+      - text: Clase 13 Halabi
+        href: clase13.html
 output:
   html_document:
     theme: flatly

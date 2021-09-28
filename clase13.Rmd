@@ -1,0 +1,10 @@
+---
+title: "Clase 13"
+output: html_document
+---
+Va el video de la clase 13 [aca](https://drive.google.com/file/d/1Irm4SNflQA6HOWjTBPte3sajlB2wvTq6/view?usp=sharing)
+
+
+<iframe src="https://drive.google.com/file/d/1Irm4SNflQA6HOWjTBPte3sajlB2wvTq6/preview" width="800" height="500" allow="autoplay"></iframe>
+
+###Nos vemos el martes con poblaciones originarias
